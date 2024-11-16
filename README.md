@@ -6,3 +6,4 @@ using `bun install`
 
 - [x] Expo router
 - [x] Nativewind
+- [x] Svg support
