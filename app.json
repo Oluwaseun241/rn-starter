@@ -7,7 +7,6 @@
     "icon": "./assets/images/icon.png",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
-    "newArchEnabled": true,
     "splash": {
       "image": "./assets/images/splash.png",
       "resizeMode": "contain",
@@ -29,8 +28,12 @@
     },
     "plugins": [
       "expo-router",
+<<<<<<< HEAD
       "expo-font",
       "expo-web-browser"
+=======
+      "expo-font"
+>>>>>>> parent of 914731f (feat: moved to expo 52)
     ],
     "experiments": {
       "typedRoutes": true
